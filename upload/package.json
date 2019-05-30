@@ -10,7 +10,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "https://jsonboy.github.io/upload/img/3.jpg"
             }
           }
         }
@@ -26,7 +26,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "https://jsonboy.github.io/upload/img/4.jpg"
             }
           }
         }
@@ -42,7 +42,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "https://jsonboy.github.io/upload/img/5.jpg"
             }
           }
         }
@@ -58,7 +58,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-4.jpeg"
+              "url": "https://jsonboy.github.io/upload/img/6.jpg"
             }
           }
         }
@@ -74,7 +74,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-5.jpeg"
+              "url": "https://jsonboy.github.io/upload/img/7.jpg"
             }
           }
         }
@@ -90,7 +90,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-6.jpeg"
+              "url": "https://jsonboy.github.io/upload/img/8.jpg"
             }
           }
         }
@@ -106,7 +106,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-7.jpeg"
+              "url": "https://jsonboy.github.io/upload/img/9.jpg"
             }
           }
         }
@@ -122,7 +122,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-8.jpeg"
+              "url": "https://jsonboy.github.io/upload/img/10.jpg"
             }
           }
         }
