@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "1"
+      },
+      "fields": {
+        "title": "Oneplus 7 pro",
+        "price": 50000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-1.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "Pixel 3 xl",
+        "price": 55000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-2.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": "Samsung s10 +",
+        "price": 75000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-3.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title": "Huawei p 30",
+        "price": 60000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-4.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "REdmi note 7",
+        "price": 15000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-5.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "Asus zenfone 6",
+        "price": 52000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-6.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "Iphone 10s max",
+        "price": 120000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-7.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "oppo f11 pro",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-8.jpeg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
