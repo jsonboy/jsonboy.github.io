@@ -1,0 +1,236 @@
+[
+    {
+        "col":[
+            {
+                "name":"Deepika",
+                "dob":"2000",
+                "likes":" ",
+                "hob":"Life of enjoy",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+                
+            },
+            {
+                "name":"Nivedha",
+                "dob":"2000",
+                "likes":" ",
+                "hob":"Enjoy so much",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Sai roshini",
+                "dob":"2000",
+                "likes":" ",
+                "hob":"fashion",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Suil kumar",
+                "dob":"1999",
+                "likes":" ",
+                "hob":"Life of enjoy",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Subash",
+                "dob":"1999",
+                "likes":"",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Sivaram",
+                "dob":"1999",
+                "likes":" ",
+                "hob":"Life of enjoy",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Sai surya",
+                "dob":"2000",
+                "likes":" ",
+                "hob":"Topper",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Saravana mech",
+                "dob":"2000",
+                "likes":" ",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Rakkesh",
+                "dob":"2000",
+                "likes":"CSK fan",
+                "hob":"circket",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Bhoovesh",
+                "dob":"2000",
+                "likes":"CSK fan ",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Guru",
+                "dob":"2000",
+                "likes":"MI fan",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"John",
+                "dob":"2000",
+                "likes":"Computer",
+                "hob":"Computer",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Jeff",
+                "dob":"2000",
+                "likes":"Computer",
+                "hob":"Life of enjoy",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Hari",
+                "dob":"2000",
+                "likes":" ",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            }
+        ]
+    },
+    {
+        "sch":[
+            {
+                "name":"Sivaranjani",
+                "dob":"2000",
+                "likes":" ",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Vishnu priya",
+                "dob":"2000",
+                "likes":"",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Aishwarya",
+                "dob":"2000",
+                "likes":" ",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Subsah",
+                "dob":"2000",
+                "likes":"Marvel fan",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Vishal",
+                "dob":"1999",
+                "likes":" ",
+                "hob":"circket",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Naresh",
+                "dob":"1999",
+                "likes":" ",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Suhurth",
+                "dob":"1999",
+                "likes":"Marvel fan",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Nishanth",
+                "dob":"1999",
+                "likes":"studies so much",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Ragulu",
+                "dob":"1999",
+                "likes":"Physics",
+                "hob":"studies so much",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Rishivanth",
+                "dob":"1999",
+                "likes":" ",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Rupa",
+                "dob":"2000",
+                "likes":" ",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Jay adithya",
+                "dob":"1999",
+                "likes":" ",
+                "hob":"Life of enjoy",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Bharath",
+                "dob":"1999",
+                "likes":"Hacker",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Harish",
+                "dob":"1999",
+                "likes":"studies so much",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Mohan",
+                "dob":"1999",
+                "likes":"studies sp much",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Teja boy",
+                "dob":"1999",
+                "likes":" ",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Sudhan",
+                "dob":"1999",
+                "likes":" ",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            },
+            {
+                "name":"Jayateertha",
+                "dob":"1999",
+                "likes":"Hacker",
+                "hob":" ",
+                "photo":"https://jsonboy.github.io/photo/ab.jpg"
+            }
+        ]
+    }
+    
+]
