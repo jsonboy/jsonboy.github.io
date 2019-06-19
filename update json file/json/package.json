@@ -82,7 +82,7 @@
              {
                 "name":"Aswin gopakumar",
                 "dob":"1999",
-                "likes":"",
+                "likes":" ",
                 "hob":"PUGB fan",
                 "photo":"https://jsonboy.github.io/update%20json%20file/photo/ab.jpg"
             },
@@ -110,6 +110,13 @@
              {
                 "name":"Athul kishnan",
                 "dob":"1999",
+                "likes":" ",
+                "hob":"Life of enjoy",
+                "photo":"https://jsonboy.github.io/update%20json%20file/photo/ab.jpg"
+            },
+              {
+                "name":"Adith",
+                "dob":"1997",
                 "likes":" ",
                 "hob":"Life of enjoy",
                 "photo":"https://jsonboy.github.io/update%20json%20file/photo/ab.jpg"
